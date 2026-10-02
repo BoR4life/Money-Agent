@@ -1,0 +1,9 @@
+{
+  "holdings": {"A200": 0, "BGBL": 0, "VGE": 0},
+  "prices": {"A200": 0.0, "BGBL": 0.0, "VGE": 0.0},
+  "cash": 0.0,
+  "offset_balance": 0.0,
+  "monthly_spending": 0.0,
+  "brokerage": 6.50,
+  "debt_recycling": false
+}

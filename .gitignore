@@ -1,0 +1,4 @@
+# Personal financial data. This repo is public. Never commit these.
+private/*
+!private/state.example.json
+__pycache__/
